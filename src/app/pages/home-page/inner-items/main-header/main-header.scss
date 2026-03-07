@@ -28,7 +28,9 @@
   color: var(--light-color);
   font-size: 30px;
   }
-
+.tool-outer{
+    display:flex;
+  }
 @media only screen and (max-width: 400px){
     .login-text{
         display:none;
